@@ -10,9 +10,9 @@
 //
 
 #import "ViewController.h"
-#define kGoogleAPIKey @"AIzaSyAqPvlwMX6wdwIaolC_iBh5J7LR2kVhEu0"
-#define APP_ID @"689b63aa"
-#define APP_KEY @"8a79e9dfc8df1c7c5b576a1490da0aea"
+#define kGoogleAPIKey @""
+#define APP_ID @""
+#define APP_KEY @""
 
 
 @interface ViewController ()
